@@ -1,32 +1,32 @@
-#Readme Generator
+
+  <h1 align="center">Readme Generator<h1/>
 
   ## Description
-  Generates a high quality readme based on user input.
+  generates a high quality readme file based of the input of user prompts.
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   
   ## Installation
-  undefined
+  npm installer
 
   ## Usage
-  run node.js
+  node index.js in terminal
 
   ## License
   This project is licensed under Opensource
 
   ## Credits
-  
+  none
 
   ## Contributing
-  dkshfdsijfdsklcms;dffds
+  dslaf;hadshgf;ldhfaghfdljgf;dv
 
   ## Questions
-  GitHub username: brycelarkin13
-  If you have additional questions about this project, you can contact me at xxx@gmail. 
+  GitHub username: brycelakrin13
+  If you have additional questions about this project, you can contact me at blarkin13@gmail. 
 
