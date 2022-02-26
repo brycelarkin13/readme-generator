@@ -2,7 +2,7 @@
   <h1 align="center">Readme Generator<h1/>
 
   ## Description
-  generates a high quality readme file based of the input of user prompts.
+  develops a high quality readme file using information pulled from user prompts.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,18 +15,19 @@
   npm installer
 
   ## Usage
-  node index.js in terminal
+  node index.js at root 
 
   ## License
+  ![badmath](https://img.shields.io/npm/l/open)
   This project is licensed under Opensource
-
+  
   ## Credits
   none
 
   ## Contributing
-  dslaf;hadshgf;ldhfaghfdljgf;dv
+  dsfadggfdsg
 
   ## Questions
-  GitHub username: brycelakrin13
+  GitHub username: brycelarkin13
   If you have additional questions about this project, you can contact me at blarkin13@gmail. 
 

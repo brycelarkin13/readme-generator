@@ -32,8 +32,9 @@ const generateMarkdown = data => {
   ${data.usage}
 
   ## License
+  ![badmath](https://img.shields.io/npm/l/open)
   This project is licensed under ${data.licenses}
-
+  
   ## Credits
   ${data.credits}
 
